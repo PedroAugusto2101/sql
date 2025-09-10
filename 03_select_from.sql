@@ -1,6 +1,6 @@
 SELECT IdProduto, DescProduto
 FROM produtos
-LIMIT 2
+LIMIT 2;
 
 /* multiple lines comment
    more comments here
